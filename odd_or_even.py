@@ -77,7 +77,3 @@ def result(value):
         elif user_choice == 'e':
             print('Total is {}\nComputer Choice is {}'.format(value, sys_number))
             print('system won the toss')
-
-
-# invoking the result function
-result(value=total)
